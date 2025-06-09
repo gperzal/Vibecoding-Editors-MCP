@@ -95,9 +95,4 @@ Este repositorio reúne los editores y agentes IA más usados y prometedores par
 
 Este repositorio es colaborativo. Si conoces algún editor o agente IA que no esté en la lista y tenga uso relevante en el mundo del **Vibecoding con MCP**, no dudes en hacer un PR o abrir un issue.
 
----
 
-### 📣 ¿Cuál usas tú?
-
-¿Te atreverías a dejar VS Code por alguno de estos nuevos paradigmas?  
-Cuéntalo en tu red, comparte este repositorio y participa de la conversación sobre el futuro del desarrollo con IA.
